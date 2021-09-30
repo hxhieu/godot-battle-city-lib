@@ -1,0 +1,1 @@
+mklink ..\godot-battle-city\libgodot_battle_city_lib.dll ..\godot-battle-city-lib\target\debug\godot_battle_city_lib.dll
